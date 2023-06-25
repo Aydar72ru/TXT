@@ -1,0 +1,13 @@
+
+	Summary: Login: Error messages in the login form displayed in Enlish.
+  	Environment: All browsers / devices.
+  	Severity: Major.
+  	StepsToReproducer: 1) Openfront end https://www.test-obeink.be:8443/.
+                       	   2) Follow inloggen link.
+                           3) Fill required flelds with invalid data.
+                       	   4) Click inloggen button.
+                           5) Pay attention to error messages.
+  	Actual result: Error messages in the login from are displaed in English.
+  	Expected result: Error messages in the login from are displaed in chosenlanguage.
+  	Attachment: https://www.prntscr.com/k905cq.
+}
