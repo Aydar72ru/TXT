@@ -10,4 +10,3 @@
   	Actual result: Error messages in the login from are displaed in English.
   	Expected result: Error messages in the login from are displaed in chosenlanguage.
   	Attachment: https://www.prntscr.com/k905cq.
-}
